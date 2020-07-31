@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e8362e-b52c-46f9-9ef0-712cd55b0a2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fQnnOlAFBvYpif4zydrB6cmuG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e8362e-b52c-46f9-9ef0-712cd55b0a2f" name="Default Changelist" comment="" />
+      <created>1596159349817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596159349817</updated>
+      <workItem from="1596159352129" duration="568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="440" key="Github.ShareDialog" timestamp="1596159443249">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="804" y="440" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596159443249" />
+    <state x="701" y="253" key="Github.UntrackedFilesDialog" timestamp="1596159456997">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="701" y="253" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596159456997" />
+    <state x="743" y="325" key="chooseDestDirectoryDialog" timestamp="1596159374106">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="325" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596159374106" />
+  </component>
+</project>

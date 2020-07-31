@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2efa8bb-d78d-4ee4-bc9d-7f4d9b64bfd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/ack/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/ack/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/basic/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/basic/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/confirm/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/confirm/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/dlx/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/dlx/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/exchange/direct/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/exchange/direct/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/exchange/fanout/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/exchange/fanout/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/exchange/topic/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/exchange/topic/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/myconsumer/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/myconsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/return1/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestksl/return1/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1f4rEkGHBvtTIaXb0Yfe0fYtA7X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/bestksl/dlx" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bestksl.return1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/bestksl/dlx" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/bestksl/ack" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/bestksl/myconsumer" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/bestksl/return" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/bestksl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Producer (1)">
+    <configuration name="MyConsumer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bestksl.ack.MyConsumer" />
+      <module name="RabbitmqApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestksl.ack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConsumer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bestksl.dlx.MyConsumer" />
+      <module name="RabbitmqApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestksl.dlx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bestksl.myconsumer.MyConsumer" />
+      <module name="RabbitmqApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestksl.myconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bestksl.dlx.Producer" />
+      <module name="RabbitmqApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestksl.dlx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bestksl.ack.Producer" />
+      <module name="RabbitmqApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestksl.ack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyConsumer" />
+      <item itemvalue="Application.MyConsumer (1)" />
+      <item itemvalue="Application.Producer" />
+      <item itemvalue="Application.MyConsumer (2)" />
+      <item itemvalue="Application.Producer (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyConsumer (2)" />
+        <item itemvalue="Application.Producer (1)" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.MyConsumer (1)" />
+        <item itemvalue="Application.MyConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2efa8bb-d78d-4ee4-bc9d-7f4d9b64bfd0" name="Default Changelist" comment="" />
+      <created>1595488096715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595488096715</updated>
+      <workItem from="1595488098059" duration="14320000" />
+      <workItem from="1595562374594" duration="8115000" />
+      <workItem from="1595813247374" duration="1413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="205" key="#Inspections" timestamp="1595488316166">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1595488316166" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595498986451">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595498986451" />
+    <state width="1920" height="310" key="GridCell.Tab.0.bottom" timestamp="1595813158626">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595570684278" />
+    <state width="1920" height="310" key="GridCell.Tab.0.bottom/0.23.1920.1000@0.23.1920.1000" timestamp="1595813158626" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595516291715" />
+    <state width="1920" height="310" key="GridCell.Tab.0.center" timestamp="1595813158625">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595570684276" />
+    <state width="1920" height="310" key="GridCell.Tab.0.center/0.23.1920.1000@0.23.1920.1000" timestamp="1595813158625" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595516291713" />
+    <state width="1920" height="310" key="GridCell.Tab.0.left" timestamp="1595813158625">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595570684275" />
+    <state width="1920" height="310" key="GridCell.Tab.0.left/0.23.1920.1000@0.23.1920.1000" timestamp="1595813158625" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595516291712" />
+    <state width="1920" height="310" key="GridCell.Tab.0.right" timestamp="1595813158626">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1920" height="310" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595570684277" />
+    <state width="1920" height="310" key="GridCell.Tab.0.right/0.23.1920.1000@0.23.1920.1000" timestamp="1595813158626" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595516291714" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1595513261782">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="939" height="304" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595495327188" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595513261782" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1595513261781">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="939" height="304" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595495327187" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595513261781" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1595513261781">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="939" height="304" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595495327186" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595513261781" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1595513261781">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="939" height="304" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595495327187" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595513261781" />
+    <state x="461" y="179" key="SettingsEditor" timestamp="1595558766024">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1595558766024" />
+    <state x="596" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1595513755325">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="596" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1440.900/0.0.1920.1200@0.0.1920.1200" timestamp="1595513755325" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1595561315787">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595561315787" />
+  </component>
+</project>
